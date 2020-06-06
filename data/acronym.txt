@@ -1,0 +1,85 @@
+﻿thik:thích
+mik:mình
+ko:không
+sp:sản phẩm
+spham:sản phẩm
+dc:được
+kg:không
+k:không
+t:tôi
+dk:được
+mjh:mình
+ng:người
+lzd:lazada
+vs:với
+mk:mình
+nv:nhân viên
+ak:à
+ăm:năm
+km:khuyến mãi
+nx:nhận xét
+tks:cảm ơn
+thank:cảm ơn
+thanks:cảm ơn
+r:rồi
+nhưg:nhưng
+quad:quá
+dt:điện thoại
+*:sao
+mn:mọi người
+vs:với
+m.n:mọi người
+e:em
+r:rồi
+cty:công ty
+pt:phân tích
+1:một
+2:hai
+3:ba
+4:bốn
+5:năm
+am:năm
+nam:năm
+dep:đẹp
+hang:hàng
+khong:không
+dep:đẹp
+re:rẻ
+rat:rất
+mih:mình
+nam:năm
+d:được
+hum:hôm
+mh:mình
+rat:rất
+đc:được
+hai:hài
+ve:về
+log:lòng
+long:lòng
+som:sớm
+can:cẩn
+than:thận
+giong:giống
+thuc:thực
+te:tế
+great:tốt
+good:tốt
+san:sản
+pham:phẩm
+tui:túi
+chat:chất
+luong:lượng
+dep:đẹp
+ung:ưng
+y:ý
+thich:thích
+hinh:hình
+qc:quảng cáo
+totally:hoàn toàn
+satisfied:thỏa mãn
+dv:dịch vụ
+b:bạn
+thik:thích
+yc:yêu cầu
+tot:tốt
